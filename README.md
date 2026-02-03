@@ -15,7 +15,7 @@ Below are some of my public projects — each with unique goals and technologies
 | **[Melodify](https://github.com/Shai-Shargal/Melodify)** | Music app using algorithmic analysis to help listeners discover tunes based on mood and preference. |
 | **[LeagueLink](https://github.com/Shai-Shargal/LeagueLink)** | League management platform connecting users through team and game organization tools. |
 | **[PythonMusicApp](https://github.com/Shai-Shargal/PythonMusicApp)** | A Python-based music application demonstrating audio handling and UI logic. |
-| **[Yaniv](https://github.com/Shai-Shargal/Yaniv)** | A Yaniv card game simulator written in Python, showcasing game rules and logic. |
+| **[Yaniv](https://github.com/Shai-Shargal/Yaniv)** | A Yaniv card game simulator written in TypeScript, showcasing game rules and logic. |
 | **[taboola-recommendation-widget](https://github.com/Shai-Shargal/taboola-recommendation-widget)** | A widget integration project for Taboola recommendations with front-end focus. |
 
 ---
